@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Md Khokanuzzaman Khokan** — a **Senior Software Engineer** at [Square Health Ltd](https://squarehealth.com.bd), building production-grade mobile applications that serve thousands of users daily.
+I'm **Md Khokanuzzaman Khokan** — a **Software Engineer** at [Square Health Ltd](https://squarehealth.com.bd), building production-grade mobile applications that serve thousands of users daily.
 
 Beyond my day job, I'm deeply invested in the **AI-powered developer tooling** space — exploring agentic workflows, vibe coding, and how AI is reshaping software engineering from the ground up.
 
